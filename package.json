@@ -1,0 +1,33 @@
+{
+  "name": "human-conditions",
+  "version": "1.0.0",
+  "description": "An AI-powered library that evaluates natural language conditions against your data objects.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [
+    "natural-language",
+    "conditions",
+    "AI",
+    "data-check",
+    "human-readable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommynguyenn/human-conditions.git"
+  },
+  "author": "Tommy Nguyen <tnguuyen@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
