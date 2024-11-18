@@ -8,6 +8,8 @@ An AI-powered library that evaluates natural language conditions against your da
 - Lightweight and extensible.
 
 ## Installation
+1. Ensure your .env file contains the environment variable: `OPENAI_API_KEY`
+2. Install the package to your project
 ```bash
 yarn add human-conditions
 ```
