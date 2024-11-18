@@ -20,8 +20,8 @@ const user = {
   id: '12345',
   name: 'Alex Doe',
   email: 'alex.doe@example.com',
-  subscriptionType: 'premium',
   billingPlan: {
+    plan: 'premium',
     planName: 'Premium Plan',
     startDate: '2024-01-01',
     renewalDate: '2025-01-01',
