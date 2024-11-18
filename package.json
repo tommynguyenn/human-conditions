@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "An AI-powered library that evaluates natural language conditions against your data objects.",
   "main": "src/index.ts",
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/human-conditions"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest"
