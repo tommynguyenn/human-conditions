@@ -2,6 +2,8 @@
 
 An AI-powered library that evaluates natural language conditions against your data objects. Simplify decision-making with human-readable queries like "is on a paid subscription plan" or "has admin permissions."
 
+https://www.npmjs.com/package/human-conditions
+
 ## Features
 - Parse human-readable conditions into actionable logic.
 - Supports customizable data objects.
